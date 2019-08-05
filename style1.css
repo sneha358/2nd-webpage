@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(50deg,lightgreen,lightyellow,lightgreen);
+    font-family: "Comic Sans MS";
+
+}
+h1{color: black;
+    text-align: center;
+    font-family: "cursive";
+    box-shadow: 0 0 10px yellow;
+    border: 4px solid red;
+    border-radius: 60px;
+    font-size: 70px;
+}
+h2
+{
+    padding: 10px;
+    color: white;
+    font-size: 26px;text-align: center; background: linear-gradient(45deg,orangered,black,orangered);
+}
+h3{
+    background-color: red;
+    text-align: center;
+    box-shadow: 0 0 10px yellow;
+    border: 3px solid black;
+    padding: 3px;
+    border-radius: 50%;
+}
+html{
+    scroll-behavior: smooth;
+}
+#photo{
+    border: solid black;
+    box-shadow: 0 0 10px orange;
+    padding: 5px;
+}
+#ph{
+    border-radius: 20px;
+    border: 3px solid blue;
+    box-shadow: 0 0 10px deepskyblue;
+
+
+
+}
